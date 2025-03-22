@@ -10,6 +10,12 @@ body{
 	padding: 0px;
 	margin: 0px;
 	background: #212f3d;
+	height: 100vh;
+	background-image: url('home-bg.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
 }
 
 html::-webkit-scrollbar{
@@ -24,12 +30,6 @@ html::-webkit-scrollbar{
   max-height:400px;
   width: auto;
   height: auto;
-}
-#banner{
-	height: 100vh;
-	background-image: url('home-bg.jpg');
-	background-size: cover;
-	background-position: center;
 }
 
 .banner-content{	
