@@ -22,7 +22,7 @@ body{
   height: auto;
 }
 #banner{
-	height: 650px;
+	height: 100vh;
 	background-image: url('home-bg.jpg');
 	background-size: cover;
 	background-position: center;
